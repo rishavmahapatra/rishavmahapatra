@@ -26,6 +26,6 @@
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavmahapatra&show_icons=true&locale=en&theme=tokyonight" alt="rishavmahapatra" /></p> 
     <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rishavmahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-linkedin" height="30" width="40" /></a>
  <a href="mailto:rishavmahapatra24@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="rishav-email" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/rishavmahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-linkedin" height="30" width="40" /></a>
 </p>
